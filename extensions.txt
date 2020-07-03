@@ -1,0 +1,15 @@
+code --install-extension andrew-codes.cypress-snippets
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension esbenp.prettier-vscode
+code --install-extension firsttris.vscode-jest-runner
+code --install-extension golang.go
+code --install-extension grimmer.vscode-back-forward-button
+code --install-extension kumar-harsh.graphql-for-vscode
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension nick-rudenko.back-n-forth
+code --install-extension Orta.vscode-jest
+code --install-extension shardulm94.trailing-spaces
+code --install-extension vscodevim.vim
+code --install-extension xabikos.JavaScriptSnippets
